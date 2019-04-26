@@ -35,7 +35,7 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 
 
         //Update the round score if the rolled number was not a 1
-        if (dice1 && dice2 !== 1) {
+        if (dice1 !== 1 && dice2 !== 1) {
         //Add score
         roundScore += dice1 + dice2;
 
