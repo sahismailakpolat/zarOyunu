@@ -6,3 +6,5 @@ Javascript ile oluşturduğum küçük zevkli bir oyun!
 -İstediğin kadar zar atabilirsin ve bu aldığın puanları genel puanına ekleyebilirsin.
 -Genel puana ekleme yaptıktan sonra sıra diğer oyuncuya geçiyor.
 -Kim genel puanda 100 olursa o oyunu kazanıyor.
+-Istersen oyunu 50'de veya 70'de bitirebilirsin tamamiyle sana bagli.
+
